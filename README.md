@@ -1,6 +1,6 @@
 # 🤖 Autonomous Data Analyst
 
-> An AI-powered Multi-Agent Analytics Platform that automatically collects live cryptocurrency market data, performs statistical analysis, generates business hypotheses, validates insights, builds executive reports, remembers historical market trends, and visualizes everything through an interactive Streamlit dashboard.
+An AI-powered Multi-Agent Analytics Platform that automates the complete analytics lifecycle—from live data ingestion and statistical hypothesis generation to AI-powered executive reporting and historical market intelligence.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)

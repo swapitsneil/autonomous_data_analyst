@@ -173,35 +173,49 @@ Allows historical comparison across pipeline executions.
 
 # 📷 Application Screenshots
 
-## Dashboard
+## 🏠 Application Overview
 
-![Dashboard](images/dashboard.png)
-
----
-
-## AI Analysis
-
-![AI Analysis](images/ai_analysis.png)
+![Application Overview](images/1_appoverview.png)
 
 ---
 
-## Memory Agent
+## 📊 Cryptocurrency Dashboard
 
-![Memory](images/memory.png)
+Live cryptocurrency KPIs, AI executive summary, key findings, recommendations, and market insights.
 
----
-
-## Market History
-
-![History](images/history.png)
+![Dashboard](images/2_overview.png)
 
 ---
 
-## About
+## 🤖 AI Analysis Report
 
-![About](images/about.png)
+Displays the complete LangGraph workflow including Profiler, Hypothesis, Analyst, Critic, Narrator, and Memory Agents.
+
+![AI Analysis](images/3_aianalysis.png)
 
 ---
+
+## 🧠 Memory Agent
+
+Compares the latest market snapshot with previous pipeline executions and tracks historical market intelligence.
+
+![Memory Agent](images/4_memory.png)
+
+---
+
+## 📜 Market History
+
+Historical market trends, pipeline executions, sentiment evolution, and executive summaries across runs.
+
+![History](images/5_history.png)
+
+---
+
+## ℹ️ About the Project
+
+Project architecture, AI workflow, technology stack, features, and overall system design.
+
+![About](images/6_about.png)
 
 # 📂 Project Structure
 

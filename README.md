@@ -30,7 +30,6 @@ Instead of manually exploring datasets, the platform employs multiple AI agents 
 
 The project combines modern Data Engineering, Business Intelligence, Statistics, Generative AI, and Agentic AI into a unified analytics platform.
 
-![Demo](images/autodataanalyst.gif)
 
 ---
 

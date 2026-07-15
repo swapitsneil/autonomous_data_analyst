@@ -301,6 +301,18 @@ Complete architecture, technology stack, workflow and project details.
 
 # 🛠 Technology Stack
 
+| Layer | Technologies |
+|--------|--------------|
+| Programming | Python |
+| Data Engineering | Pandas, NumPy |
+| Statistical Analysis | SciPy, Statsmodels |
+| AI Framework | LangGraph |
+| LLM | Google Gemini |
+| Database | SQLite |
+| Visualization | Plotly |
+| Frontend | Streamlit |
+| API | CoinGecko API |
+
 ## Backend
 
 - Python

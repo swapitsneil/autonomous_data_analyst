@@ -313,43 +313,6 @@ Complete architecture, technology stack, workflow and project details.
 | Frontend | Streamlit |
 | API | CoinGecko API |
 
-## Backend
-
-- Python
-- Pandas
-- NumPy
-- SciPy
-- Statsmodels
-- SQLite
-- Requests
-
----
-
-## AI
-
-- Google Gemini
-- LangGraph
-- Prompt Engineering
-
----
-
-## Frontend
-
-- Streamlit
-- Plotly
-
----
-
-## Database
-
-- SQLite
-
----
-
-## APIs
-
-- CoinGecko API
-
 ---
 
 # ⚙ Installation

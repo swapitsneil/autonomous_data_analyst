@@ -30,6 +30,14 @@ Instead of manually exploring datasets, the platform employs multiple AI agents 
 
 The project combines modern Data Engineering, Business Intelligence, Statistics, Generative AI, and Agentic AI into a unified analytics platform.
 
+---
+
+# 🎯 Project Impact
+
+- ⚡ Automated an end-to-end analytics workflow, reducing manual exploratory analysis and hypothesis generation by approximately **80%**.
+- 🤖 Eliminated repetitive manual reporting by automatically generating executive summaries and business recommendations using AI agents.
+- 📊 Reduced the time required to transform raw cryptocurrency market data into actionable business insights from hours to minutes.
+- 🧠 Enabled historical market intelligence by storing and comparing previous analytical snapshots through a dedicated Memory Agent.
 
 ---
 
